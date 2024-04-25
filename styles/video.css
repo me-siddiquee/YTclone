@@ -86,6 +86,7 @@ a {
 @media (min-width: 751px) {
     .video-grid {
         grid-template-columns: 1fr 1fr 1fr;
+        transition: all 0.5s;
     }
 }
 
